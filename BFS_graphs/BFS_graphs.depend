@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1589509421 source:c:\users\sajal saini\desktop\c++\internship\bfs_graphs\main.cpp
+	<iostream>
+	<queue>
+

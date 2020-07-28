@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1590127938 source:c:\users\sajal saini\desktop\c++\internship\roads_and_libraries_hackerrank\main.cpp
+	<iostream>
+	<queue>
+	<vector>
+

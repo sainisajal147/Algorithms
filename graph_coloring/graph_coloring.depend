@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1592431260 source:c:\users\sajal saini\desktop\c++\codes\graph_coloring\main.cpp
+	<iostream>
+	<vector>
+	<string>
+
